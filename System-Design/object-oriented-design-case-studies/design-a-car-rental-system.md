@@ -12,7 +12,7 @@
 A Car Rental System is a software built to handle the renting of automobiles for a short period of time, generally ranging from a few hours to a few weeks. A car rental system often has numerous local branches (to allow its user to return a vehicle to a different location), and primarily located near airports or busy city areas.
 
 <p align="center">
-    <img src="/media-files/car-rent.png" alt="Car Rental System">
+    <img src="System-Design/media-files/car-rent.png" alt="Car Rental System">
     <br />
     Car Rental System
 </p>
