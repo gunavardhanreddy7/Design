@@ -12,7 +12,7 @@
 A Restaurant Management System is a software built to handle all restaurant activities in an easy and safe manner. This System will give the Restaurant management power and flexibility to manage the entire system from a single portal. The system allows the manager to keep track of available tables in the system as well as the reservation of tables and bill generation.
 
 <p align="center">
-    <img src="/media-files/restaurant-management-system.png" alt="Restaurant Management System">
+    <img src="Design/System-Design/media-files/restaurant-management-system.png" alt="Restaurant Management System">
     <br />
     Restaurant Management System
 </p>
